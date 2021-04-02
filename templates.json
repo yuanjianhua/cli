@@ -1,0 +1,21 @@
+{
+  data: {
+    list: [
+      {
+        name: 'template1',
+        description: '模版一',
+        publish: true
+      },
+      {
+        name: 'template2',
+        description: '模版二',
+        publish: true
+      },
+      {
+        name: 'template3',
+        description: '模版三',
+        publish: true
+      },
+    ]
+  }
+}
